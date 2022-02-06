@@ -1,0 +1,11 @@
+body {
+  min-height: 2000px;
+}
+
+#project {
+  background-color: #54bab9;
+}
+
+section {
+  padding-top: 5rem;
+}
